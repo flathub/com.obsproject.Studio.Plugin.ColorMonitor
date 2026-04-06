@@ -14,7 +14,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/norihiro/obs-color-monitor.git
-        tag: 0.9.5
+        tag: 0.9.6
       - type: patch
         path: project-name.patch
       - type: file
